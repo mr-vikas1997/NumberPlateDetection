@@ -1,5 +1,4 @@
 tensorflow==2.5.0
-Keras==2.4.3
 opencv-python==4.5.2.52
 numpy==1.19.5
 Flask==1.1.4
